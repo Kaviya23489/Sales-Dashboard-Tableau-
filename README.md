@@ -30,13 +30,3 @@ This **Sales Tableau Dashboard** provides an interactive and visual representati
 ✅ **Sales Managers** – To track and optimize sales performance.  
 ✅ **Business Analysts** – To analyze trends and forecast demand.  
 ✅ **Marketing Teams** – To study regional sales impact.  
-
-## **License**  
-This dashboard is open-source and available for customization under the **MIT License**.  
-
-## **Contact & Support**  
-For queries, reach out via **GitHub Issues** or [LinkedIn](https://www.linkedin.com).  
-
----
-
-This version removes usage instructions and customization while keeping the description clear and professional. Let me know if you need any more tweaks!
