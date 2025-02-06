@@ -1,4 +1,4 @@
-# **Sales Tableau Dashboard**  
+# **Sales Dashboard**  
 
 ## **Overview**  
 This **Sales Tableau Dashboard** provides an interactive and visual representation of key sales metrics, helping businesses analyze trends, profitability, and regional performance. It is designed for data-driven decision-making and improving sales strategies.  
