@@ -24,7 +24,7 @@ This **Sales Tableau Dashboard** provides an interactive and visual representati
 
 ## **Technology Stack**  
 - **Tableau** – Data Visualization  
-- **Excel / CSV / SQL** – Data Source  
+- **Kaggle** – Data Source  
 
 ## **Who Can Use This?**  
 ✅ **Sales Managers** – To track and optimize sales performance.  
