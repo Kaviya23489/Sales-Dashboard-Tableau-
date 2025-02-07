@@ -27,6 +27,6 @@ This **Sales Tableau Dashboard** provides an interactive and visual representati
 - **Kaggle** – Data Source  
 
 ## **Who Can Use This?**  
-✅ **Sales Managers** – To track and optimize sales performance.  
-✅ **Business Analysts** – To analyze trends and forecast demand.  
-✅ **Marketing Teams** – To study regional sales impact.  
+**Sales Managers** – To track and optimize sales performance.  
+**Business Analysts** – To analyze trends and forecast demand.  
+**Marketing Teams** – To study regional sales impact.  
